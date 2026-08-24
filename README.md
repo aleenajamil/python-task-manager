@@ -1,4 +1,4 @@
-# Python System & OS Internals Lab
+# Python System & OS Internals 
 
 A hands-on Python project exploring operating systems, system monitoring, processes, networking, and concurrency.
 
